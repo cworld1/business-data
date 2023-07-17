@@ -9,6 +9,7 @@ It's about using python and jupyter notebook to analyze the data of electrical a
 Environment requirements:
 
 - [Python](https://www.python.org/) 3.10+
+- [Jupyter](https://jupyter.org/) 6.4.3+
 
 ### 1. Clone the repository
 
