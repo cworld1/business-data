@@ -1,6 +1,6 @@
 # Business Data Analysis
 
-It's about using python to analyze the data of electrical appliances, and then using the data to predict the sales of electrical appliances.
+It's about using python and jupyter notebook to analyze the data of electrical appliances, and then using the data to predict the sales of electrical appliances.
 
 [Get Started 前往阅读 →](./main.ipynb)
 
